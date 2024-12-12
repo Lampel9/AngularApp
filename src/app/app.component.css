@@ -1,0 +1,19 @@
+
+.example-spacer {
+    flex: 1 1 auto;
+  
+  }
+.main-body{
+  padding-top: 20px;
+  max-width: 1248px;
+  margin: 0 auto;
+  mat-form-field{
+    
+    width: 100%;
+  }
+}
+mat-toolbar{
+  background-color: #3f51b5;
+  color: #fff;
+  padding: 0 24px;
+}
