@@ -57,7 +57,7 @@ export class EmpAddEditComponent implements OnInit {
          },
        });
       }
-    } else {
+     else {
       this._empService.AjouterEtudiant(this.empForm.value).subscribe({
         next: (val: any) => {
           alert('Etudiant Ajouter avec success');
@@ -70,6 +70,6 @@ export class EmpAddEditComponent implements OnInit {
   
     }
  
-  
+    }
   }
 }

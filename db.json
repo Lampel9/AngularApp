@@ -13,15 +13,6 @@
   ],
   "etudiant": [
     {
-      "nom": "BA",
-      "prenom": "ABD",
-      "email": "DF@DF.F",
-      "classe": "GL",
-      "datenaiss": "",
-      "adresse": "DKR",
-      "id": "8abb"
-    },
-    {
       "nom": "DIALLO",
       "prenom": "IDIATOU",
       "email": "IDYA@GMAIL.COM",
